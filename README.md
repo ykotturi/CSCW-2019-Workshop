@@ -34,25 +34,25 @@ We will also have three activities reflecting the three main goals of the worksh
 
 ## Agenda
 
-9-9:20 Introductions  
+9-9:20 **Introductions**  
 
 9:20-10:00 **Presentation 1 + Discussion**  
 
-10:00-10:15 Coffee break  
+10:00-10:15 **Coffee break**  
 
 10:15-12:00 **Activity 1: Reflect**  
 
-12:00-1:30 Lunch  
+12:00-1:30 **Lunch**  
 
 1:30-2:00 **Presentation 2 + Discussion**  
 
 2:00-3:00 **Activity 2: Ideate and Brainstorm**  
 
-3:00-3:15 Coffee break  
+3:00-3:15 **Coffee break**  
 
 3:15-4:15 **Activity 3: Prototype ** 
 
-4:15-5 Synthesis + Closing
+4:15-5 **Synthesis + Closing**
 
 
 
