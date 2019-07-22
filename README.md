@@ -27,30 +27,30 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 
 We will also have three activities reflecting the three main goals of the workshop, as outlined above:  
 
-- Activity 1: Reflect - Participants will break into groups of 3-4. Each group will reflect on a certain probing question, such as one of the following: What has the CSCW community done thus far to build a better future, or at least counter the risks, that come with on-demand work? As traditional places are being disrupted, what other categories of places are popping up? Towards the end of this activity, each group will be asked to report out their reflection, which the organizers will help to live synthesize.
-- Activity 2: Ideate - In different groups of 3-4, participants will ideate opportunities and models for where technology and physical spaces could work in conjunction with each other to address some of the topics identified in the reflection activity. Participants will be asked to keep in mind what they can learn or adopt from other disciplines, fields, and industries. Goals of the ideation could include identifying supports for information sharing, learning, trust, and community.
-- Activity 3: Prototype - Continuing with groups in Activity 2, participants will perform a deep dive into one idea. This could take the form of a digital tool, a set of principles, implications for policy, a novel organizational structure, new categories of place, etc.
+- **Activity 1: Reflect** Participants will break into groups of 3-4. Each group will reflect on a certain probing question, such as one of the following: What has the CSCW community done thus far to build a better future, or at least counter the risks, that come with on-demand work? As traditional places are being disrupted, what other categories of places are popping up? Towards the end of this activity, each group will be asked to report out their reflection, which the organizers will help to live synthesize.
+- **Activity 2: Ideate** In different groups of 3-4, participants will ideate opportunities and models for where technology and physical spaces could work in conjunction with each other to address some of the topics identified in the reflection activity. Participants will be asked to keep in mind what they can learn or adopt from other disciplines, fields, and industries. Goals of the ideation could include identifying supports for information sharing, learning, trust, and community.
+- **Activity 3: Prototype** Continuing with groups in Activity 2, participants will perform a deep dive into one idea. This could take the form of a digital tool, a set of principles, implications for policy, a novel organizational structure, new categories of place, etc.
 
 
 ## Agenda
 
 9-9:20 Introductions  
 
-9:20-10:00 Presentation 1 + Discussion  
+9:20-10:00 **Presentation 1 + Discussion**  
 
 10:00-10:15 Coffee break  
 
-10:15-12:00 Activity 1: Reflect  
+10:15-12:00 **Activity 1: Reflect**  
 
 12:00-1:30 Lunch  
 
-1:30-2:00 Presentation 2 + Discussion  
+1:30-2:00 **Presentation 2 + Discussion**  
 
-2:00-3:00 Activity 2: Ideate and Brainstorm  
+2:00-3:00 **Activity 2: Ideate and Brainstorm**  
 
 3:00-3:15 Coffee break  
 
-3:15-4:15 Activity 3: Prototype  
+3:15-4:15 **Activity 3: Prototype ** 
 
 4:15-5 Synthesis + Closing
 
