@@ -50,7 +50,7 @@ We will also have three activities reflecting the three main goals of the worksh
 
 3:00-3:15 **Coffee break**  
 
-3:15-4:15 **Activity 3: Prototype ** 
+3:15-4:15 **Activity 3: Prototype** 
 
 4:15-5 **Synthesis + Closing**
 
