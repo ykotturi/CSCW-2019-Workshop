@@ -15,9 +15,7 @@ While the shift to on-demand labor may foster greater control over one’s emplo
 - **Ideate** opportunities for where physical workplaces can complement and/or on-demand work and visa versa to address challenges identified in the reflection.
 - **Prototype** concrete plans or takeaways that the CSCW, and broader, community can takeaway when considering the role of “place” in on-demand work. 
 
-## Outcomes
-
-- We plan to write up a report on the outcomes of this workshop in the form of an ACM Communications article and corresponding blog post.
+We plan to write up a report on the outcomes of this workshop in the form of an ACM Communications article and corresponding blog post.
 
 ## Agenda
 
@@ -45,8 +43,22 @@ While the shift to on-demand labor may foster greater control over one’s emplo
 ```markdown
 Syntax highlighted code block
 
-## Motivation
+## Organizers
 
+**Julie Hui** is an Assistant Professor/Presidential Post-doc at the University of Michigan School of Information. She has seven years of experience investigating how to best support peer information sharing and social support in informal work contexts, such as online crowdfunding communities, makerspaces, and neighborhood business groups. She is currently studying and building tools to support skill and self-efficacy development among low-resourced entrepreneurs.  
+
+**Justin Cranshaw** is a researcher at Microsoft focusing on building and studying technologies to make individuals, teams, and organizations more productive at work. This workshop topic on the role of place in on-demand work bridges his current research interests to his past research, which focused on designing location-based social technologies for strengthening and supporting places, especially in an urban context.   
+
+**Yasmine Kotturi** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Last summer at Etsy, she investigated how thousands of Etsy sellers (based in the U.S., U.K., and India) organically leverage their peers to navigate the many uncertainties that arise in digitally-mediated work. With Community Forge, a co-working space in Wilkinsburg, PA, she is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.   
+
+**Chinmay Kulkarni** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
+
+
+
+
+
+
+Markdown syntax reminders (to be removed):
 
 - Bulleted
 - List
