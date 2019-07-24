@@ -12,20 +12,14 @@ While the shift to on-demand labor may foster greater control over one’s emplo
 ## Workshop goals
 
 - **Reflect** on trends in research and practice with respect to the “de-placing” of work through on-demand digital mediation. 
-- **Ideate** opportunities for where physical workplaces can complement and/or on-demand work and visa versa to address challenges identified in the reflection.
+- **Ideate** opportunities for how physical places (e.g. local organizations, community centers, co-working spaces) could address challenges and risks related to on-demand work.
 - **Prototype** concrete plans or takeaways that the CSCW, and broader, community can takeaway when considering the role of “place” in on-demand work. 
 
 We plan to write up a report on the outcomes of this workshop in the form of an ACM Communications article and corresponding blog post.
 
 ### Workshop activities
 
-This workshop will be highly interactive, involving a mix of presentations, discussions, and hands-on activities. There will be two presentations (chosen from the submissions or invited speaker) throughout the day representing different perspectives on the workshop topic. Perspectives represented in the presentations could include:  
-
-- The interplay between the design of physical and digital places for work
-- The role of digital mediation in finding work, and the activities surrounding work
-- Fairness, equity, and inclusivity in the design of new spaces for on-demand work
-
-We will also have three activities reflecting the three main goals of the workshop, as outlined above:  
+This workshop will be highly interactive, involving a mix of presentations, discussions, and hands-on activities. The majority of time will be dedicated to the following activities:  
 
 - **Activity 1: Reflect** Participants will break into groups of 3-4. Each group will reflect on a certain probing question, such as one of the following: What has the CSCW community done thus far to build a better future, or at least counter the risks, that come with on-demand work? As traditional places are being disrupted, what other categories of places are popping up? Towards the end of this activity, each group will be asked to report out their reflection, which the organizers will help to live synthesize.
 - **Activity 2: Ideate** In different groups of 3-4, participants will ideate opportunities and models for where technology and physical spaces could work in conjunction with each other to address some of the topics identified in the reflection activity. Participants will be asked to keep in mind what they can learn or adopt from other disciplines, fields, and industries. Goals of the ideation could include identifying supports for information sharing, learning, trust, and community.
