@@ -10,6 +10,7 @@
 
 <a href="#organizers">Organizers</a> 
 
+<div id="top"></div>
 
 ## Workshop overview
 
@@ -35,6 +36,7 @@ We plan to write up a report on the outcomes of this workshop in the form of an 
 
 
 <div id="schedule"></div>
+<a href="#top">Back to top</a> 
 
 ## Workshop activities
 
@@ -67,14 +69,18 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 
 4:15-5 **Synthesis + Closing**
 
+<a href="#top">Back to top</a> 
+
 <div id="participate"></div>
 
 ## Call for Participation
 
+<a href="#top">Back to top</a> 
 <div id ="participants"></div>
 
 ## Participants
 
+<a href="#top">Back to top</a> 
 <div id="Organizers"></div>
 
 ## Organizers
@@ -87,7 +93,9 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 
 **Chinmay Kulkarni** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
 
+<a href="#top">Back to top</a> 
 <div id="cscw"></div>
+
   
 ## About CSCW
   
@@ -97,4 +105,4 @@ The 22nd ACM Conference on Computer-Supported Cooperative Work and Social Comput
 
 For more information, visit cscw.acm.org.
   
-
+<a href="#top">Back to top</a> 
