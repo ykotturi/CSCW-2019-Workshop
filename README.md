@@ -1,3 +1,6 @@
+<div id="top"></div>
+Get started:
+
 <a href="#participate">Call for Participation</a>  
 
 <a href="#info">Guiding questions and goals</a>  
@@ -9,8 +12,6 @@
 <a href="#participants">Participants</a>  
 
 <a href="#organizers">Organizers</a> 
-
-<div id="top"></div>
 
 ## Workshop overview
 
