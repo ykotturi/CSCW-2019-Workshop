@@ -1,5 +1,5 @@
 <div id="top"></div>
-Get started:
+## Get started  
 
 <a href="#participate">Call for Participation</a>  
 
