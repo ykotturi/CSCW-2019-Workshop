@@ -1,8 +1,16 @@
+<a href="#participate">Call for Participantion</a>
+<a href="#info">Workshop Details</a>
+<a href="#schedule">Schedule</a>
+<a href="#cscw">About Computer-Supported Cooperative Work (CSCW)</a>
+<a href="#participants">Workshop Participants</a>
+<a href="#organizers">Workshop Organizers</a>
+
 
 ## Workshop overview
 
 While the shift to on-demand labor may foster greater control over one’s employment in some ways, it has removed much of the benefits that come with consistently working in shared physical spaces. Working in physical spaces allow opportunities for social support, earning, long-term growth, and stability. The goal of this workshop is to facilitate a discussion around how physical spaces and online technologies influence each other in on-demand work. We plan to invite a diversity of stakeholders, including grassroots organizers who can represent and voice the concerns of their respective worker communities, researchers studying these topics, and designers of on-demand work platforms. Discussion and ideas generated from this workshop will be archived online and made available to the larger research community and the general public. 
 
+<div id="info">
 ## Guiding questions
 
 - How might the on-demand nature of work help and/or hinder long-term stability, planning, and overall satisfaction?
@@ -18,7 +26,7 @@ While the shift to on-demand labor may foster greater control over one’s emplo
 
 We plan to write up a report on the outcomes of this workshop in the form of an ACM Communications article and corresponding blog post.
 
-<a href="#boo">Take me to the container</a>
+</div><div id="schedule">
 
 ### Workshop activities
 
@@ -51,7 +59,12 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 
 4:15-5 **Synthesis + Closing**
 
-<div id="boo">Hi I'm in an HTML container</div>
+
+</div>
+
+<div id ="participants">Participant information goes here</div>
+
+<div id="Organizers">
 
 ## Organizers
 
@@ -64,21 +77,14 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 **Chinmay Kulkarni** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
 
 
+</div><div id="cscw">
+  
+  ## About CSCW
+  
+The 22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2019) will be held November 9th-13th 2019, Austin, Texas.
 
-Markdown syntax reminders (to be removed):
+“CSCW is the premier venue for research in the design and use of technologies that affect groups, organizations, communities, and networks. Bringing together top researchers and practitioners, CSCW explores the technical, social, material, and theoretical challenges of designing technology to support collaborative work and life activities.”
 
-```markdown
-Syntax highlighted code block
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
+For more information, visit cscw.acm.org.
+  
+ </div>
