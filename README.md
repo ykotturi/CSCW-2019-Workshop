@@ -36,7 +36,7 @@ We plan to write up a report on the outcomes of this workshop in the form of an 
 
 <div id="schedule"></div>
 
-### Workshop activities
+## Workshop activities
 
 This workshop will be highly interactive, involving a mix of presentations, discussions, and hands-on activities. The majority of time will be dedicated to the following activities:  
 
