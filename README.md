@@ -1,15 +1,14 @@
 <a href="#participate">Call for Participation</a>  
 
-<a href="#info">Workshop Details</a>  
+<a href="#info">Guiding questions and goals</a>  
 
-<a href="#schedule">Schedule</a>  
+<a href="#schedule">Activities and Agenda</a>  
 
 <a href="#cscw">About Computer-Supported Cooperative Work (CSCW)</a>  
 
-<a href="#participants">Workshop Participants</a>  
+<a href="#participants">Participants</a>  
 
-<a href="#organizers">Workshop Organizers</a>  
-
+<a href="#organizers">Organizers</a>  
 
 
 ## Workshop overview
@@ -68,10 +67,13 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 
 4:15-5 **Synthesis + Closing**
 
+<div id="participate"></div>
 
+## Call for Participation
 
+<div id ="participants"></div>
 
-<div id ="participants">Participant information goes here</div>
+## Participants
 
 <div id="Organizers"></div>
 
@@ -85,10 +87,9 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 
 **Chinmay Kulkarni** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
 
-
 <div id="cscw"></div>
   
- ## About CSCW
+## About CSCW
   
 The 22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2019) will be held November 9th-13th 2019, Austin, Texas.
 
