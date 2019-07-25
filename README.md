@@ -1,9 +1,15 @@
-<a href="#participate">Call for Participantion</a>
-<a href="#info">Workshop Details</a>
-<a href="#schedule">Schedule</a>
-<a href="#cscw">About Computer-Supported Cooperative Work (CSCW)</a>
-<a href="#participants">Workshop Participants</a>
-<a href="#organizers">Workshop Organizers</a>
+<a href="#participate">Call for Participantion</a>  
+
+<a href="#info">Workshop Details</a>  
+
+<a href="#schedule">Schedule</a>  
+
+<a href="#cscw">About Computer-Supported Cooperative Work (CSCW)</a>  
+
+<a href="#participants">Workshop Participants</a>  
+
+<a href="#organizers">Workshop Organizers</a>  
+
 
 
 ## Workshop overview
