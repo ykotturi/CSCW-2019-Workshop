@@ -1,4 +1,4 @@
-<a href="#participate">Call for Participantion</a>  
+<a href="#participate">Call for Participation</a>  
 
 <a href="#info">Workshop Details</a>  
 
@@ -16,7 +16,7 @@
 
 While the shift to on-demand labor may foster greater control over one’s employment in some ways, it has removed much of the benefits that come with consistently working in shared physical spaces. Working in physical spaces allow opportunities for social support, earning, long-term growth, and stability. The goal of this workshop is to facilitate a discussion around how physical spaces and online technologies influence each other in on-demand work. We plan to invite a diversity of stakeholders, including grassroots organizers who can represent and voice the concerns of their respective worker communities, researchers studying these topics, and designers of on-demand work platforms. Discussion and ideas generated from this workshop will be archived online and made available to the larger research community and the general public. 
 
-<div id="info">
+<div id="info"></div>
   
 ## Guiding questions
 
@@ -33,7 +33,9 @@ While the shift to on-demand labor may foster greater control over one’s emplo
 
 We plan to write up a report on the outcomes of this workshop in the form of an ACM Communications article and corresponding blog post.
 
-</div><div id="schedule">
+
+
+<div id="schedule"></div>
 
 ### Workshop activities
 
@@ -67,11 +69,11 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 4:15-5 **Synthesis + Closing**
 
 
-</div>
+
 
 <div id ="participants">Participant information goes here</div>
 
-<div id="Organizers">
+<div id="Organizers"></div>
 
 ## Organizers
 
@@ -84,7 +86,7 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 **Chinmay Kulkarni** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
 
 
-</div><div id="cscw">
+<div id="cscw"></div>
   
  ## About CSCW
   
@@ -94,4 +96,4 @@ The 22nd ACM Conference on Computer-Supported Cooperative Work and Social Comput
 
 For more information, visit cscw.acm.org.
   
- </div>
+
