@@ -17,6 +17,8 @@ While the shift to on-demand labor may foster greater control over one’s emplo
 
 We plan to write up a report on the outcomes of this workshop in the form of an ACM Communications article and corresponding blog post.
 
+<a href="#boo">Take me to the container</a>
+
 ### Workshop activities
 
 This workshop will be highly interactive, involving a mix of presentations, discussions, and hands-on activities. The majority of time will be dedicated to the following activities:  
@@ -48,7 +50,7 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 
 4:15-5 **Synthesis + Closing**
 
-
+<div id="boo">Hi I'm in an HTML container</div>
 
 ## Organizers
 
