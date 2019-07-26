@@ -84,7 +84,30 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 
 ## Call for Participation
 
-We invite a diversity of stakeholders, including grassroots organizers who can represent and voice the concerns of their respective worker communities, researchers studying these topics, and designers of on-demand work platforms to apply to this workshop.
+**Key Information:**  
+- **Format:** 2-4 pages in the <a href="https://sigchi.org/templates/">SIGCHI Extended Abstracts format</a> or alternative material of rough equivalence
+- **Deadline:** September 23, 2019
+- **Notification:** October 4, 2019
+- **Workshop:** Saturday, November 9, 2019
+
+We invite a diversity of stakeholders, including researchers studying these topics, grassroots organizers who can represent and voice the concerns of their respective worker communities, and designers of on-demand work platforms to apply to this workshop. Potential participants are asked to submit 2-4 page position papers that articulates their positionality, describes their research area, and comments on how they find themselves in solidarity (or not) with others doing work in this area. Potential topics include (but are not limited to):
+
+- How/Whether ridesharing drivers connect with peers locally
+- How/Whether crowd workers organize collectively locally
+- Role of co-working spaces in freelance work
+- Work practices of on-demand workers in traditional organizations
+
+**Selection and Attendance Criteria**
+Submissions will be reviewed by the organizers and accepted based on the relevance and development of their chosen topic, as well as participants’ potential to contribute to the workshop. Our workshop will accommodate up to 20 participants. At least one author of each accepted paper must attend the workshop. Space permitting, additional authors may be accommodated. Please note that workshop attendees are required to register by paying an additional workshop fee on top of the conference registration fee. Prior to the workshop, participants will be requested to read all accepted position papers.
+
+**How to Submit**
+Submissions and questions should be directed to **EMAIL TBD** on or before the submission deadline. Please submit your position paper in PDF format by August 31, 2018, 5pm PDT. Space permitting, we may consider late submissions.
+
+**Archival Copies**
+Submitted abstracts will be archived on the workshop’s website, but will not appear in the CSCW proceedings. Authors will maintain all copyright over their work.
+
+**Remote Attendance**
+The workshop is primarily designed and intended for participation in person. Yet, we will consider applications for remote attendance if you cannot attend CSCW in person due to mobility impairments, chronic health issues, temporary travel limitations, and such. If your application is for remote attendance, please indicate this clearly in your position paper. For general questions about telepresence opportunities at CSCW 2019, please email tele2019@cscw.acm.org.
 
 <a href="#top">Back to top</a> 
 <div id ="participants"></div>
