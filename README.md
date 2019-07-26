@@ -4,7 +4,7 @@
 
 <a href="#info">Workshop Overview</a>  
 
-<a href="#schedule">Agenda</a>  
+<a href="#schedule">Activities and Agenda</a>  
 
 <a href="#participants">Participants</a>
 
@@ -15,6 +15,15 @@
 ## Workshop overview
 
 While the shift to on-demand labor may foster greater control over one’s employment in some ways, it has removed much of the benefits that come with consistently working in shared physical spaces. Working in physical spaces allow opportunities for social support, earning, long-term growth, and stability. The goal of this workshop is to facilitate a discussion around how physical spaces and online technologies influence each other in on-demand work. We plan to invite a diversity of stakeholders, including grassroots organizers who can represent and voice the concerns of their respective worker communities, researchers studying these topics, and designers of on-demand work platforms. Discussion and ideas generated from this workshop will be archived online and made available to the larger research community and the general public.  
+
+**When:**  
+Saturday, November 9, 2019  
+9am-5pm
+
+**Where:**  
+Hilton Hotel  
+500 East 4th Street  
+Austin, TX 78701
 
 <div id="info"></div>
   
@@ -74,6 +83,8 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 <div id="participate"></div>
 
 ## Call for Participation
+
+We invite a diversity of stakeholders, including grassroots organizers who can represent and voice the concerns of their respective worker communities, researchers studying these topics, and designers of on-demand work platforms to apply to this workshop.
 
 <a href="#top">Back to top</a> 
 <div id ="participants"></div>
