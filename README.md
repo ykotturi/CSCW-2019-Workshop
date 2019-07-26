@@ -2,15 +2,15 @@
 
 <a href="#participate">Call for Participation</a>  
 
-<a href="#info">Guiding questions and goals</a>  
+<a href="#info">Workshop Overview</a>  
 
-<a href="#schedule">Activities and Agenda</a>  
-
-<a href="#cscw">About Computer-Supported Cooperative Work (CSCW)</a>  
+<a href="#schedule">Agenda</a>  
 
 <a href="#participants">Participants</a>
 
 <a href="#organizers">Organizers</a> 
+
+<a href="#cscw">About Computer-Supported Cooperative Work (CSCW)</a>  
 
 ## Workshop overview
 
