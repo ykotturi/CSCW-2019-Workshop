@@ -8,7 +8,7 @@
 
 <a href="#participants">Participants</a>
 
-<a href="#organizers">Organizers</a> 
+<a href="#organizers">Organizers and Advisors</a> 
 
 <a href="#cscw">About CSCW</a>  
 
@@ -104,6 +104,14 @@ To be determined.
 **<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Last summer at Etsy, she investigated how thousands of Etsy sellers (based in the U.S., U.K., and India) organically leverage their peers to navigate the many uncertainties that arise in digitally-mediated work. With Community Forge, a co-working space in Wilkinsburg, PA, she is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.   
 
 **<a href="http://www.cs.cmu.edu/~chinmayk/">Chinmay Kulkarni</a>** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
+
+## Advisors
+
+**<a href="http://www.tawannadillahunt.com/">Tawanna Dillahunt</a>** is an Assistant Professor at the University of Michigan’s School of Information (UMSI). Tawanna is primarily interested in identifying needs and opportunities to further explore how theories from the social sciences can be used to design technologies that have a positive impact on group and individual behavior. Tawanna designs, builds, enhances and deploys innovative technologies that solve real-world problems, particularly in underserved communities.
+
+**<a href="https://marylgray.org/bio/">Mary Gray</a>** is a Senior Researcher at Microsoft Research and Fellow at Harvard University’s Berkman Klein Cen-ter for Internet and Society. She maintains a faculty position in the School of Informatics, Computing, and Engineering at Indiana University. Mary’s research looks at how technology access, material conditions, and everyday uses of media transform people’s lives. Mary's most recent book, Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass in collaboration with Siddharth Suri, explores the impact of auto-mation on the future of work through workers’ present-day experiences of on-demand economies. Mary currently sits on several boards ad-dressing questions about the automation and the future of work and social responsibility in tech, including the Executive Board of Public Responsibility in Medicine and Research (PRIM&R) and Stanford University’s “One-Hundred-Year Study on Artificial Intelligence” (AI100) Standing Commit-tee.
+
+**<a href="https://quote.ucsd.edu/lirani/">Lilly Irani</a>** is an Associate Professor of Communication & Science Studies at University of California, San Diego. She also serves as faculty in the Design Lab, Institute for Practical Ethics, the program in Critical Gender Studies, and sits on the Academic Advisory Board of AI Now (NYU). She is author of Chasing Innovation: Making Entrepreneurial Citizens in Modern India (Princeton University Press, 2019). Her research examines the cultural politics of high-tech work and the counter-practices they generate, as both an ethnographer, a designer, and a former technology worker. She is a co-founder and maintainer of digital labor activism tool Turkopticon. Her work has appeared at ACM SIGCHI, New Media & Society, Science, Technology & Human Values, South Atlantic Quarterly, and other venues.
 
 <a href="#top">Back to top</a> 
 <div id="cscw"></div>
