@@ -1,6 +1,4 @@
-<div id="top"></div>
-
-## Get started  
+<div id="top"></div> 
 
 <a href="#participate">Call for Participation</a>  
 
@@ -10,7 +8,7 @@
 
 <a href="#cscw">About Computer-Supported Cooperative Work (CSCW)</a>  
 
-<a href="#participants">Participants</a>  
+<a href="#participants">Participants</a>
 
 <a href="#organizers">Organizers</a> 
 
@@ -49,7 +47,7 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 - **Activity 3: Prototype** Continuing with groups in Activity 2, participants will perform a deep dive into one idea. This could take the form of a digital tool, a set of principles, implications for policy, a novel organizational structure, new categories of place, etc.
 
 
-## Agenda
+## Tentative Agenda
 
 9-9:20 **Introductions**  
 
@@ -81,19 +79,20 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 <div id ="participants"></div>
 
 ## Participants
+To be determined.
 
 <a href="#top">Back to top</a> 
 <div id="Organizers"></div>
 
 ## Organizers
 
-**Julie Hui** is an Assistant Professor/Presidential Post-doc at the University of Michigan School of Information. She has seven years of experience investigating how to best support peer information sharing and social support in informal work contexts, such as online crowdfunding communities, makerspaces, and neighborhood business groups. She is currently studying and building tools to support skill and self-efficacy development among low-resourced entrepreneurs.  
+**<a href="http://juliehui.com/">Julie Hui</a>** is an Assistant Professor/Presidential Post-doc at the University of Michigan School of Information. She has seven years of experience investigating how to best support peer information sharing and social support in informal work contexts, such as online crowdfunding communities, makerspaces, and neighborhood business groups. She is currently studying and building tools to support skill and self-efficacy development among low-resourced entrepreneurs.  
 
-**Justin Cranshaw** is a researcher at Microsoft focusing on building and studying technologies to make individuals, teams, and organizations more productive at work. This workshop topic on the role of place in on-demand work bridges his current research interests to his past research, which focused on designing location-based social technologies for strengthening and supporting places, especially in an urban context.   
+**<a href="http://cranshaw.me/">Justin Cranshaw</a>** is a researcher at Microsoft focusing on building and studying technologies to make individuals, teams, and organizations more productive at work. This workshop topic on the role of place in on-demand work bridges his current research interests to his past research, which focused on designing location-based social technologies for strengthening and supporting places, especially in an urban context.   
 
-**Yasmine Kotturi** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Last summer at Etsy, she investigated how thousands of Etsy sellers (based in the U.S., U.K., and India) organically leverage their peers to navigate the many uncertainties that arise in digitally-mediated work. With Community Forge, a co-working space in Wilkinsburg, PA, she is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.   
+**<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Last summer at Etsy, she investigated how thousands of Etsy sellers (based in the U.S., U.K., and India) organically leverage their peers to navigate the many uncertainties that arise in digitally-mediated work. With Community Forge, a co-working space in Wilkinsburg, PA, she is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.   
 
-**Chinmay Kulkarni** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
+**<a href="http://www.cs.cmu.edu/~chinmayk/">Chinmay Kulkarni</a>** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
 
 <a href="#top">Back to top</a> 
 <div id="cscw"></div>
