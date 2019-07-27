@@ -14,7 +14,7 @@
 
 ## Workshop overview
 
-While the shift to on-demand labor may foster greater control over one’s employment in some ways, it has removed much of the benefits that come with consistently working in shared physical spaces. Working in physical spaces allow opportunities for social support, earning, long-term growth, and stability. The goal of this workshop is to facilitate a discussion around how physical spaces and online technologies influence each other in on-demand work. We plan to invite a diversity of stakeholders, including grassroots organizers who can represent and voice the concerns of their respective worker communities, researchers studying these topics, and designers of on-demand work platforms. Discussion and ideas generated from this workshop will be archived online and made available to the larger research community and the general public.  
+While the shift to on-demand labor may foster greater control over one’s employment in some ways, it has removed much of the benefits that come with consistently working in shared physical spaces. Working in physical spaces allow opportunities for social support, earning, long-term growth, and stability. The goal of this workshop is to facilitate a discussion around how physical spaces and online technologies influence each other in on-demand work (e.g. ridesharing, crowd work, freelancing, side hustles). We plan to invite a diversity of stakeholders, including grassroots organizers who can represent and voice the concerns of their respective worker communities, researchers studying these topics, and designers of on-demand work platforms. Discussion and ideas generated from this workshop will be archived online and made available to the larger research community and the general public.  
 
 **When:**  
 Saturday, November 9, 2019  
@@ -40,10 +40,6 @@ Austin, TX 78701
 - **Ideate** opportunities for how physical places (e.g. local organizations, community centers, co-working spaces) could address challenges and risks related to on-demand work.
 - **Prototype** concrete plans or takeaways that the CSCW, and broader, community can takeaway when considering the role of “place” in on-demand work. 
 
-We plan to write up a report on the outcomes of this workshop in the form of an ACM Communications article and corresponding blog post.
-
-
-
 <div id="schedule"></div>
 <a href="#top">Back to top</a> 
 
@@ -51,9 +47,11 @@ We plan to write up a report on the outcomes of this workshop in the form of an 
 
 This workshop will be highly interactive, involving a mix of presentations, discussions, and hands-on activities. The majority of time will be dedicated to the following activities:  
 
-- **Activity 1: Reflect** Participants will break into groups of 3-4. Each group will reflect on a certain probing question, such as one of the following: What has the CSCW community done thus far to build a better future, or at least counter the risks, that come with on-demand work? As traditional places are being disrupted, what other categories of places are popping up? Towards the end of this activity, each group will be asked to report out their reflection, which the organizers will help to live synthesize.
-- **Activity 2: Ideate** In different groups of 3-4, participants will ideate opportunities and models for where technology and physical spaces could work in conjunction with each other to address some of the topics identified in the reflection activity. Participants will be asked to keep in mind what they can learn or adopt from other disciplines, fields, and industries. Goals of the ideation could include identifying supports for information sharing, learning, trust, and community.
+- **Activity 1: Reflect** Participants will break into groups of 3-4. Each group will reflect on a certain probing question, such as one of the following: What has the CSCW community done thus far to build a better future, or at least counter the risks, that come with on-demand work? As traditional places are being disrupted, what other categories of places are popping up? Towards the end of this activity, each group will be asked to report out their reflection, which the organizers will help to synthesize.
+- **Activity 2: Ideate** In groups of 3-4, participants will ideate opportunities and models for where technology and physical spaces could work in conjunction with each other to address some of the topics/challenges identified in the reflection activity. Participants will be asked to keep in mind what they can learn or adopt from other disciplines, fields, and industries.
 - **Activity 3: Prototype** Continuing with groups in Activity 2, participants will perform a deep dive into one idea. This could take the form of a digital tool, a set of principles, implications for policy, a novel organizational structure, new categories of place, etc.
+
+The outcomes of these activities will contribute to a collective report on challenges and opportunities around the the de-placing of on-demand work.
 
 
 ## Tentative Agenda
@@ -90,24 +88,26 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 - **Notification:** October 4, 2019
 - **Workshop:** Saturday, November 9, 2019
 
-We invite a diversity of stakeholders, including researchers studying these topics, grassroots organizers who can represent and voice the concerns of their respective worker communities, and designers of on-demand work platforms to apply to this workshop. Potential participants are asked to submit 2-4 page position papers that articulates their positionality, describes their research area, and comments on how they find themselves in solidarity (or not) with others doing work in this area. Potential topics include (but are not limited to):
+We invite a diversity of stakeholders, including researchers studying these topics, grassroots organizers who can represent and voice the concerns of their respective worker communities, and designers of on-demand work platforms to apply to this workshop. Potential participants are asked to submit 2-4 page position papers that describe their research, opinion, positionality, and/or practice in the workshop area. Potential topics include (but are not limited to):
 
-- How/Whether ridesharing drivers connect with peers locally
-- How/Whether crowd workers organize collectively locally
+- How/Whether on-demand workers connect with peers locally
+- How/Whether on-demand workers organize collectively locally
+- How on-demand workers connect with local stakeholders (e.g. customers)
 - Role of co-working spaces in freelance work
 - Work practices of on-demand workers in traditional organizations
+- Perspectives of what is considered "places of work" in on-demand work
 
 **Selection and Attendance Criteria**
-Submissions will be reviewed by the organizers and accepted based on the relevance and development of their chosen topic, as well as participants’ potential to contribute to the workshop. Our workshop will accommodate up to 20 participants. At least one author of each accepted paper must attend the workshop. Space permitting, additional authors may be accommodated. Please note that workshop attendees are required to register by paying an additional workshop fee on top of the conference registration fee. Prior to the workshop, participants will be requested to read all accepted position papers.
+Submissions will be reviewed by the organizers and accepted based on the relevance and potential to contribute to the workshop. Our workshop will accommodate up to 20 participants. At least one author of each accepted paper must attend the workshop. Please note that workshop attendees are required to register for the workshop by by paying an additional workshop fee on top of the conference registration fee. Prior to the workshop, participants will be requested to read all accepted position papers.
 
 **How to Submit**
-Submissions and questions should be directed to **EMAIL TBD** on or before the submission deadline. Please submit your position paper in PDF format by August 31, 2018, 5pm PDT. Space permitting, we may consider late submissions.
+Submissions and questions should be directed to futureofworkplaces@gmail.com by the submission deadline. Please submit your position paper in PDF format by September 23, 2019, 5pm PDT.
 
 **Archival Copies**
 Submitted abstracts will be archived on the workshop’s website, but will not appear in the CSCW proceedings. Authors will maintain all copyright over their work.
 
 **Remote Attendance**
-The workshop is primarily designed and intended for participation in person. Yet, we will consider applications for remote attendance if you cannot attend CSCW in person due to mobility impairments, chronic health issues, temporary travel limitations, and such. If your application is for remote attendance, please indicate this clearly in your position paper. For general questions about telepresence opportunities at CSCW 2019, please email tele2019@cscw.acm.org.
+We will consider applications for remote attendance if you cannot attend CSCW in person due to mobility impairments, chronic health issues, travel limitations, etc. If your application is for remote attendance, please indicate this in the submission abstract and email. For general questions about telepresence opportunities at CSCW 2019, please email tele2019@cscw.acm.org.
 
 <a href="#top">Back to top</a> 
 <div id ="participants"></div>
