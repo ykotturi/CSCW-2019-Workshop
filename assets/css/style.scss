@@ -88,3 +88,11 @@ a.to-top {
     font-size: 10px;
     float: right;
 }
+
+@media print, screen and (max-width: 960px) {
+    #container {
+        margin-top: -50px;
+        background: white;
+        z-index: 20;
+    }
+}

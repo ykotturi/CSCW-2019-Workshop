@@ -1,3 +1,4 @@
+<div id="container">
 <div id="top"></div> 
 
 <h1 class="title">The Future of Work(<span>places</span>)</h1>
@@ -131,3 +132,5 @@ The 22nd ACM Conference on Computer-Supported Cooperative Work and Social Comput
 For more information, visit cscw.acm.org.
   
 <a class="to-top" href="#top">back to top</a> 
+
+</div>
