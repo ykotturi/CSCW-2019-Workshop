@@ -2,13 +2,9 @@
 
 <a href="#participate">Call for Participation</a>  
 
-<a href="#info">Workshop Overview</a>  
+<a href="#info">Overview</a>  
 
-<a href="#schedule">Activities and Agenda</a>  
-
-<a href="#participants">Participants</a>
-
-<a href="#organizers">Organizers and Advisors</a> 
+<a href="#organizers">Organizers</a> 
 
 <a href="#cscw">About CSCW</a>  
 
@@ -39,9 +35,6 @@ Austin, TX 78701
 - **Reflect** on trends in research and practice with respect to the “de-placing” of work through on-demand digital mediation. 
 - **Ideate** opportunities for how physical places (e.g. local organizations, community centers, co-working spaces) could address challenges and risks related to on-demand work.
 - **Prototype** concrete plans or takeaways that the CSCW, and broader, community can takeaway when considering the role of “place” in on-demand work. 
-
-<div id="schedule"></div>
-<a href="#top">Back to top</a> 
 
 ## Workshop activities
 
@@ -110,13 +103,9 @@ Submitted abstracts will be archived on the workshop’s website, but will not a
 We will consider applications for remote attendance if you cannot attend CSCW in person due to mobility impairments, chronic health issues, travel limitations, etc. If your application is for remote attendance, please indicate this in the submission abstract and email. For general questions about telepresence opportunities at CSCW 2019, please email tele2019@cscw.acm.org.
 
 <a href="#top">Back to top</a> 
-<div id ="participants"></div>
 
-## Participants
-To be determined.
-
-<a href="#top">Back to top</a> 
-<div id="Organizers"></div>
+ 
+<div id="organizers"></div>
 
 ## Organizers
 
@@ -139,7 +128,6 @@ To be determined.
 <a href="#top">Back to top</a> 
 <div id="cscw"></div>
 
-  
 ## About CSCW
   
 The 22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2019) will be held November 9th-13th, 2019 in Austin, Texas.
