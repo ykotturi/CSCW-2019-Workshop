@@ -61,10 +61,14 @@ strong {
 }
 
 .agenda {
+    display: table;
     .agenda-item {
+        display: table-row;
+        span {
+            display: table-cell;
+        }
         .agenda-item-name {
             color: #ca3181;
-            margin-left: 15px;
         }
     }
     margin-bottom: 30px;
