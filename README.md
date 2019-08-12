@@ -50,7 +50,7 @@ The outcomes of these activities will contribute to a collective report on chall
 ### Tentative Agenda
 
 <div class="agenda">
-<div class="agenda-item">9-9:20 <span class="agenda-item-name">Introductions</span></div>
+<div class="agenda-item">9:00-9:20 <span class="agenda-item-name">Introductions</span></div>
 <div class="agenda-item">9:20-10:00 <span class="agenda-item-name">Presentation 1 + Discussion</span></div>  
 <div class="agenda-item">10:00-10:15 <span class="agenda-item-name">Coffee break</span></div>  
 <div class="agenda-item">10:15-12:00 <span class="agenda-item-name">Activity 1: Reflect</span></div>  
@@ -59,7 +59,7 @@ The outcomes of these activities will contribute to a collective report on chall
 <div class="agenda-item">2:00-3:00 <span class="agenda-item-name">Activity 2: Ideate and Brainstorm</span></div>  
 <div class="agenda-item">3:00-3:15 <span class="agenda-item-name">Coffee break</span></div>  
 <div class="agenda-item">3:15-4:15 <span class="agenda-item-name">Activity 3: Prototype</span></div> 
-<div class="agenda-item">4:15-5 <span class="agenda-item-name">Synthesis + Closing</span></div>
+<div class="agenda-item">4:15-5:00 <span class="agenda-item-name">Synthesis + Closing</span></div>
 </div>
 
 <a href="#top">Back to top</a> 
