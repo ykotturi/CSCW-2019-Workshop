@@ -29,7 +29,7 @@ Austin, TX 78701
   
 ## Guiding questions
 
-- How might the on-demand nature of work help and/or hinder long-term stability, planning, and overall satisfaction?
+- How might the on-demand nature of work help and/or hinder long-term stability, planning, and overall satisfaction for workers?
 - How might physical spaces augment on-demand work? 
 - How does the on-demand nature of work change physical spaces of work? 
 - How do we build a sense of shared “place” as work becomes more on-demand and distributed?
