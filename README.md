@@ -1,5 +1,7 @@
 <div id="top"></div> 
 
+# The Future of Work(places)
+
 <div id="menu">
 <a href="#info">Overview</a>  
 <a href="#participate">Participate</a>  
