@@ -6,7 +6,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
-html { font-family: 'Roboto', sans-serif;}
+html, body { font-family: 'Roboto', sans-serif;}
 footer {display: none;}
 
 header {
@@ -31,10 +31,12 @@ h1.title {
     font-family: 'Roboto Slab', serif;
     font-weight: 100;
     font-size: 32px;
+    span {
+        font-style: italic;
+    }
 }
 
 h2.subtitle {
-    font-family: 'Roboto Slab', serif;
     font-weight: 400;  
     font-size: 20px; 
 }

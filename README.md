@@ -1,6 +1,6 @@
 <div id="top"></div> 
 
-<h1 class="title">The Future of Work(places)</h1>
+<h1 class="title">The Future of Work(<span>places</span>)</h1>
 <h2 class="subtitle">CSCW 2019 Workshop</h2>
 
 <div id="menu">
