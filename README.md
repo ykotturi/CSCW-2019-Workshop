@@ -62,7 +62,7 @@ The outcomes of these activities will contribute to a collective report on chall
 <div class="agenda-item"><span>4:15</span> <span class="agenda-item-name">Synthesis + Closing</span></div>
 </div>
 
-<a class="to-top" href="#top">Back to top</a> 
+<a class="to-top" href="#top">back to top</a> 
 
 <div id="participate"></div>
 
@@ -95,7 +95,7 @@ Submitted abstracts will be archived on the workshop’s website, but will not a
 **Remote Attendance**
 We will consider applications for remote attendance if you cannot attend CSCW in person due to mobility impairments, chronic health issues, travel limitations, etc. If your application is for remote attendance, please indicate this in the submission abstract and email. For general questions about telepresence opportunities at CSCW 2019, please email tele2019@cscw.acm.org.
 
-<a class="to-top" href="#top">Back to top</a> 
+<a class="to-top" href="#top">back to top</a> 
 
  
 <div id="organizers"></div>
@@ -118,7 +118,7 @@ We will consider applications for remote attendance if you cannot attend CSCW in
 
 **<a href="https://quote.ucsd.edu/lirani/">Lilly Irani</a>** is an Associate Professor of Communication & Science Studies at University of California, San Diego. She also serves as faculty in the Design Lab, Institute for Practical Ethics, the program in Critical Gender Studies, and sits on the Academic Advisory Board of AI Now (NYU). She is author of Chasing Innovation: Making Entrepreneurial Citizens in Modern India (Princeton University Press, 2019). Her research examines the cultural politics of high-tech work and the counter-practices they generate, as both an ethnographer, a designer, and a former technology worker. She is a co-founder and maintainer of digital labor activism tool Turkopticon. Her work has appeared at ACM SIGCHI, New Media & Society, Science, Technology & Human Values, South Atlantic Quarterly, and other venues.
 
-<a class="to-top" href="#top">Back to top</a> 
+<a class="to-top" href="#top">back to top</a> 
 
 <div id="cscw"></div>
 
@@ -130,4 +130,4 @@ The 22nd ACM Conference on Computer-Supported Cooperative Work and Social Comput
 
 For more information, visit cscw.acm.org.
   
-<a class="to-top" href="#top">Back to top</a> 
+<a class="to-top" href="#top">back to top</a> 
