@@ -71,7 +71,7 @@ strong {
         .agenda-item-name {
             color: #ca3181;
         }
-        &:first-child {
+        :first-child {
             text-align: right;
         }
     }
