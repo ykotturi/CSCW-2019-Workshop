@@ -1,7 +1,7 @@
 <div id="top"></div> 
 
 <h1 class="title">The Future of Work(<span>places</span>)</h1>
-<h2 class="subtitle">A Workshop at CSCW 2019</h2>
+<h2 class="subtitle">Creating a Sense of Place for Digital Work, CSCW 2019</h2>
 
 <div id="menu">
 <a href="#info">Overview</a>  
