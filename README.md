@@ -1,12 +1,10 @@
 <div id="top"></div> 
 
+<div id="menu">
 <a href="#info">Overview</a>  
-
-<a href="#participate">Call for Participation</a>  
-
+<a href="#participate">Participate</a>  
 <a href="#organizers">Organizers</a> 
-
-<a href="#cscw">About CSCW</a>  
+</div>
 
 ## Workshop Overview
 
