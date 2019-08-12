@@ -23,7 +23,7 @@ Austin, TX 78701
 
 <div id="info"></div>
   
-### Guiding questions
+### Guiding Questions
 
 - How might the on-demand nature of work help and/or hinder long-term stability, planning, and overall satisfaction for workers?
 - How might physical spaces augment on-demand work? 
