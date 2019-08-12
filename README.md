@@ -1,14 +1,14 @@
 <div id="top"></div> 
 
-<a href="#participate">Call for Participation</a>  
-
 <a href="#info">Overview</a>  
+
+<a href="#participate">Call for Participation</a>  
 
 <a href="#organizers">Organizers</a> 
 
 <a href="#cscw">About CSCW</a>  
 
-## Workshop overview
+## Workshop Overview
 
 While the shift to on-demand labor may foster greater control over one’s employment in some ways, it has removed much of the benefits that come with consistently working in shared physical spaces. Working in physical spaces allow opportunities for social support, earning, long-term growth, and stability. The goal of this workshop is to facilitate a discussion around how physical spaces and online technologies influence each other in on-demand work (e.g. ridesharing, crowd work, freelancing, side hustles). We plan to invite a diversity of stakeholders, including grassroots organizers who can represent and voice the concerns of their respective worker communities, researchers studying these topics, and designers of on-demand work platforms. Discussion and ideas generated from this workshop will be archived online and made available to the larger research community and the general public.  
 
@@ -23,20 +23,20 @@ Austin, TX 78701
 
 <div id="info"></div>
   
-## Guiding questions
+### Guiding questions
 
 - How might the on-demand nature of work help and/or hinder long-term stability, planning, and overall satisfaction for workers?
 - How might physical spaces augment on-demand work? 
 - How does the on-demand nature of work change physical spaces of work? 
 - How do we build a sense of shared “place” as work becomes more on-demand and distributed?
 
-## Workshop goals
+### Goals
 
 - **Reflect** on trends in research and practice with respect to the “de-placing” of work through on-demand digital mediation. 
 - **Ideate** opportunities for how physical places (e.g. local organizations, community centers, co-working spaces) could address challenges and risks related to on-demand work.
 - **Prototype** concrete plans or takeaways that the CSCW, and broader, community can takeaway when considering the role of “place” in on-demand work. 
 
-## Workshop activities
+### Activities
 
 This workshop will be highly interactive, involving a mix of presentations, discussions, and hands-on activities. The majority of time will be dedicated to the following activities:  
 
@@ -47,7 +47,7 @@ This workshop will be highly interactive, involving a mix of presentations, disc
 The outcomes of these activities will contribute to a collective report on challenges and opportunities around the the de-placing of on-demand work.
 
 
-## Tentative Agenda
+### Tentative Agenda
 
 9-9:20 **Introductions**  
 
@@ -117,7 +117,7 @@ We will consider applications for remote attendance if you cannot attend CSCW in
 
 **<a href="http://www.cs.cmu.edu/~chinmayk/">Chinmay Kulkarni</a>** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
 
-## Advisors
+### Advisors
 
 **<a href="http://www.tawannadillahunt.com/">Tawanna Dillahunt</a>** is an Assistant Professor at the University of Michigan’s School of Information (UMSI). Tawanna is primarily interested in identifying needs and opportunities to further explore how theories from the social sciences can be used to design technologies that have a positive impact on group and individual behavior. Tawanna designs, builds, enhances and deploys innovative technologies that solve real-world problems, particularly in underserved communities.
 
