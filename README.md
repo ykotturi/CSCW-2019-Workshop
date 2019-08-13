@@ -20,7 +20,7 @@ While the shift to on-demand labor may foster greater control over one’s emplo
 <div class="where-when box">
     <div>
         <div class="accent">When:</div>
-        <div><a href="http://cscw.acm.org/2019/">CSCW 2019</a></div> 
+        <div><a href="http://cscw.acm.org/2019/" target="_blank">CSCW 2019</a></div> 
         <div>Saturday, Nov 9</div> 
         <div>9am-5pm</div>
     </div>
@@ -99,11 +99,11 @@ We invite a diversity of stakeholders, including researchers studying these topi
 
 <span class="accent">Selection and Attendance Criteria:</span> Submissions will be reviewed by the organizers and accepted based on the relevance and potential to contribute to the workshop. Our workshop will accommodate up to 20 participants. At least one author of each accepted paper must attend the workshop. Please note that workshop attendees are required to register for the workshop by by paying an additional workshop fee on top of the conference registration fee. Prior to the workshop, participants will be requested to read all accepted position papers.
 
-<span class="accent">How to Submit:</span> Submissions and questions should be directed to <a href="mailto:futureofworkplaces@gmail.com">futureofworkplaces@gmail.com</a> by the submission deadline. Please submit your position paper in PDF format by August 25, 2019 for early decision notification, or by September 23, 2019 for later decision notification.
+<span class="accent">How to Submit:</span> Submissions and questions should be directed to <a href="mailto:futureofworkplaces@gmail.com" target="_blank">futureofworkplaces@gmail.com</a> by the submission deadline. Please submit your position paper in PDF format by August 25, 2019 for early decision notification, or by September 23, 2019 for later decision notification.
 
 <span class="accent">Archival Copies:</span> Submitted abstracts will be archived on the workshop’s website, but will not appear in the CSCW proceedings. Authors will maintain all copyright over their work.
 
-<span class="accent">Remote Attendance:</span> We will consider applications for remote attendance if you cannot attend CSCW in person due to mobility impairments, chronic health issues, travel limitations, etc. If your application is for remote attendance, please indicate this in the submission abstract and email. For general questions about telepresence opportunities at CSCW 2019, please email <a href="mailto:tele2019@cscw.acm.org">tele2019@cscw.acm.org</a>.
+<span class="accent">Remote Attendance:</span> We will consider applications for remote attendance if you cannot attend CSCW in person due to mobility impairments, chronic health issues, travel limitations, etc. If your application is for remote attendance, please indicate this in the submission abstract and email. For general questions about telepresence opportunities at CSCW 2019, please email <a href="mailto:tele2019@cscw.acm.org" target="_blank">tele2019@cscw.acm.org</a>.
 
 <a class="to-top" href="#top">back to top</a> 
 
@@ -199,6 +199,6 @@ The 22nd ACM Conference on Computer-Supported Cooperative Work and Social Comput
 
 CSCW is the premier venue for research in the design and use of technologies that affect groups, organizations, communities, and networks. Bringing together top researchers and practitioners, CSCW explores the technical, social, material, and theoretical challenges of designing technology to support collaborative work and life activities.
 
-For more information, visit <a href="cscw.acm.org">cscw.acm.org</a>.
+For more information, visit <a href="cscw.acm.org" target="_blank">cscw.acm.org</a>.
   
 <a class="to-top" href="#top">back to top</a> 
