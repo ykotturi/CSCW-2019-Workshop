@@ -72,13 +72,14 @@ The outcomes of these activities will contribute to a collective report on chall
 ## Call for Participation
 
 
-> **Key Information:**  
-> - **Format:** 2-4 pages in the <a href="https://sigchi.org/templates/">SIGCHI Extended Abstracts format</a> or alternative material of rough equivalence
->- **(Early Decision) Deadline:** August 25, 2019
->- **(Regular Decision) Deadline:** September 23, 2019
->- **Notification:** October 4, 2019
->- **Workshop:** Saturday, November 9, 2019
-
+<div class="box">
+**Key Information:**  
+- **Format:** 2-4 pages in the <a href="https://sigchi.org/templates/">SIGCHI Extended Abstracts format</a> or alternative material of rough equivalence
+- **(Early Decision) Deadline:** August 25, 2019
+- **(Regular Decision) Deadline:** September 23, 2019
+- **Notification:** October 4, 2019
+- **Workshop:** Saturday, November 9, 2019
+</div>
 
 We invite a diversity of stakeholders, including researchers studying these topics, grassroots organizers who can represent and voice the concerns of their respective worker communities, and designers of on-demand work platforms to apply to this workshop. Potential participants are asked to submit 2-4 page position papers that describe their research, opinion, positionality, and/or practice in the workshop area. Potential topics include (but are not limited to):
 
