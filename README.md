@@ -87,15 +87,19 @@ We invite a diversity of stakeholders, including researchers studying these topi
 - Perspectives of what is considered "places of work" in on-demand work
 
 **Selection and Attendance Criteria**
+
 Submissions will be reviewed by the organizers and accepted based on the relevance and potential to contribute to the workshop. Our workshop will accommodate up to 20 participants. At least one author of each accepted paper must attend the workshop. Please note that workshop attendees are required to register for the workshop by by paying an additional workshop fee on top of the conference registration fee. Prior to the workshop, participants will be requested to read all accepted position papers.
 
 **How to Submit**
+
 Submissions and questions should be directed to futureofworkplaces@gmail.com by the submission deadline. Please submit your position paper in PDF format by September 23, 2019, 5pm PDT.
 
 **Archival Copies**
+
 Submitted abstracts will be archived on the workshop’s website, but will not appear in the CSCW proceedings. Authors will maintain all copyright over their work.
 
 **Remote Attendance**
+
 We will consider applications for remote attendance if you cannot attend CSCW in person due to mobility impairments, chronic health issues, travel limitations, etc. If your application is for remote attendance, please indicate this in the submission abstract and email. For general questions about telepresence opportunities at CSCW 2019, please email tele2019@cscw.acm.org.
 
 <a class="to-top" href="#top">back to top</a> 
@@ -105,13 +109,20 @@ We will consider applications for remote attendance if you cannot attend CSCW in
 
 ## Organizers
 
-**<a href="http://juliehui.com/">Julie Hui</a>** is an Assistant Professor/Presidential Post-doc at the University of Michigan School of Information. She has seven years of experience investigating how to best support peer information sharing and social support in informal work contexts, such as online crowdfunding communities, makerspaces, and neighborhood business groups. She is currently studying and building tools to support skill and self-efficacy development among low-resourced entrepreneurs.  
+<div class="organizer">
+    <img src="/assets/img/organizers/hui.jpg"/>
+    <div class="organizer-name"><a href="http://juliehui.com/">Julie Hui</a></div>
+    <div class="organizer-aff">Assistant Professor/Presidential Post-doc, University of Michigan School of Information</div>
+</div>
+
+<!--**<a href="http://juliehui.com/">Julie Hui</a>** is an Assistant Professor/Presidential Post-doc at the University of Michigan School of Information. She has seven years of experience investigating how to best support peer information sharing and social support in informal work contexts, such as online crowdfunding communities, makerspaces, and neighborhood business groups. She is currently studying and building tools to support skill and self-efficacy development among low-resourced entrepreneurs.  
 
 **<a href="http://cranshaw.me/">Justin Cranshaw</a>** is a researcher at Microsoft focusing on building and studying technologies to make individuals, teams, and organizations more productive at work. This workshop topic on the role of place in on-demand work bridges his current research interests to his past research, which focused on designing location-based social technologies for strengthening and supporting places, especially in an urban context.   
 
 **<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Last summer at Etsy, she investigated how thousands of Etsy sellers (based in the U.S., U.K., and India) organically leverage their peers to navigate uncertainties that arise in digitally-mediated work. With Community Forge, a co-working space in Wilkinsburg, PA, she is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.   
 
 **<a href="http://www.cs.cmu.edu/~chinmayk/">Chinmay Kulkarni</a>** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
+-->
 
 ### Advisors
 
