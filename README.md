@@ -93,7 +93,7 @@ Submissions will be reviewed by the organizers and accepted based on the relevan
 
 **How to Submit**
 
-Submissions and questions should be directed to futureofworkplaces@gmail.com by the submission deadline. Please submit your position paper in PDF format by September 23, 2019, 5pm PDT.
+Submissions and questions should be directed to futureofworkplaces@gmail.com by the submission deadline. Please submit your position paper in PDF format by August 25, 2019 for early decision notification, or by September 23, 2019 for later decision notification.
 
 **Archival Copies**
 
