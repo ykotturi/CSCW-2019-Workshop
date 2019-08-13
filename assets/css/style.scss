@@ -160,11 +160,12 @@ a.to-top {
     }
 
     .organizer {
+        height: 140px;
         padding: 10px 0;
-            .organizer-info {
-                padding: 6px;
-                font-size: 12px;
-                line-height: 15px;
-            }      
+        .organizer-info {
+            padding: 6px;
+            font-size: 12px;
+            line-height: 15px;
+        }      
     }
 }
