@@ -74,7 +74,7 @@ The outcomes of these activities will contribute to a collective report on chall
 <div class="box">
 <div class="box-title">Key Information:</div>
 <ul>  
-<li><strong>Format:</strong> 2-4 pages in the <a href="https://sigchi.org/templates/">SIGCHI Extended Abstracts format</a> or (rough equivalent)</li>
+<li><strong>Format:</strong> 2-4 pages in the <a href="https://sigchi.org/templates/">SIGCHI Extended Abstracts format</a> (or rough equivalent)</li>
 <li><strong>Deadline (Early Decision):</strong> August 25, 2019</li>
 <li><strong>Deadline:</strong> September 23, 2019</li>
 <li><strong>Notification:</strong> October 4, 2019</li>
@@ -91,7 +91,7 @@ We invite a diversity of stakeholders, including researchers studying these topi
 - Work practices of on-demand workers in traditional organizations
 - Perspectives of what is considered "places of work" in on-demand work
 
-**Selection and Attendance Criteria:** Submissions will be reviewed by the organizers and accepted based on the relevance and potential to contribute to the workshop. Our workshop will accommodate up to 20 participants. At least one author of each accepted paper must attend the workshop. Please note that workshop attendees are required to register for the workshop by by paying an additional workshop fee on top of the conference registration fee. Prior to the workshop, participants will be requested to read all accepted position papers.
+**<span class="accent">Selection and Attendance Criteria:</span>** Submissions will be reviewed by the organizers and accepted based on the relevance and potential to contribute to the workshop. Our workshop will accommodate up to 20 participants. At least one author of each accepted paper must attend the workshop. Please note that workshop attendees are required to register for the workshop by by paying an additional workshop fee on top of the conference registration fee. Prior to the workshop, participants will be requested to read all accepted position papers.
 
 **How to Submit:** Submissions and questions should be directed to futureofworkplaces@gmail.com by the submission deadline. Please submit your position paper in PDF format by August 25, 2019 for early decision notification, or by September 23, 2019 for later decision notification.
 
