@@ -17,14 +17,19 @@
 
 While the shift to on-demand labor may foster greater control over one’s employment in some ways, it has removed much of the benefits that come with consistently working in shared physical spaces. Working in physical spaces allow opportunities for social support, earning, long-term growth, and stability. The goal of this workshop is to facilitate a discussion around how physical spaces and online technologies influence each other in on-demand work (e.g. ridesharing, crowd work, freelancing, side hustles). We plan to invite a diversity of stakeholders, including grassroots organizers who can represent and voice the concerns of their respective worker communities, researchers studying these topics, and designers of on-demand work platforms. Discussion and ideas generated from this workshop will be archived online and made available to the larger research community and the general public.  
 
-**When:**  
-Saturday, November 9, 2019  
-9am-5pm
-
-**Where:**  
-Hilton Hotel  
-500 East 4th Street  
-Austin, TX 78701
+<div class="where-when">
+    <div>
+        <div class="accent">When:</div>  
+        <div>Saturday, November 9, 2019</div> 
+        <div>9am-5pm</div>
+    </div>
+    <div>
+        <div class="accent">Where:</div> 
+        <div>Hilton Hotel</div>
+        <div>500 East 4th Street</div> 
+        <div>Austin, TX 78701</div>
+    </div>
+</div>
   
 ### Guiding Questions
 
@@ -53,16 +58,16 @@ The outcomes of these activities will contribute to a collective report on chall
 ### Tentative Agenda
 
 <div class="agenda">
-<div class="agenda-item"><span>9:00</span> <span class="agenda-item-name">Introductions</span></div>
-<div class="agenda-item"><span>9:20</span> <span class="agenda-item-name">Presentation 1 + Discussion</span></div>  
-<div class="agenda-item"><span>10:00</span> <span class="agenda-item-name">Coffee break</span></div>  
-<div class="agenda-item"><span>10:15</span> <span class="agenda-item-name">Activity 1: Reflect</span></div>  
-<div class="agenda-item"><span>12:00</span> <span class="agenda-item-name">Lunch</span></div>  
-<div class="agenda-item"><span>1:30</span> <span class="agenda-item-name">Presentation 2 + Discussion</span></div>  
-<div class="agenda-item"><span>2:00</span> <span class="agenda-item-name">Activity 2: Ideate and Brainstorm</span></div>  
-<div class="agenda-item"><span>3:00</span> <span class="agenda-item-name">Coffee break</span></div>  
-<div class="agenda-item"><span>3:15</span> <span class="agenda-item-name">Activity 3: Prototype</span></div> 
-<div class="agenda-item"><span>4:15</span> <span class="agenda-item-name">Synthesis + Closing</span></div>
+    <div class="agenda-item"><span>9:00</span> <span class="agenda-item-name">Introductions</span></div>
+    <div class="agenda-item"><span>9:20</span> <span class="agenda-item-name">Presentation 1 + Discussion</span></div>  
+    <div class="agenda-item"><span>10:00</span> <span class="agenda-item-name">Coffee break</span></div>  
+    <div class="agenda-item"><span>10:15</span> <span class="agenda-item-name">Activity 1: Reflect</span></div>  
+    <div class="agenda-item"><span>12:00</span> <span class="agenda-item-name">Lunch</span></div>  
+    <div class="agenda-item"><span>1:30</span> <span class="agenda-item-name">Presentation 2 + Discussion</span></div>  
+    <div class="agenda-item"><span>2:00</span> <span class="agenda-item-name">Activity 2: Ideate and Brainstorm</span></div>  
+    <div class="agenda-item"><span>3:00</span> <span class="agenda-item-name">Coffee break</span></div>  
+    <div class="agenda-item"><span>3:15</span> <span class="agenda-item-name">Activity 3: Prototype</span></div> 
+    <div class="agenda-item"><span>4:15</span> <span class="agenda-item-name">Synthesis + Closing</span></div>
 </div>
 
 <a class="to-top" href="#top">back to top</a> 
@@ -72,14 +77,14 @@ The outcomes of these activities will contribute to a collective report on chall
 ## Call for Participation
 
 <div class="box">
-<div class="box-title">Key Information:</div>
-<ul>  
-<li><span class="accent">Format:</span> 2-4 pages in the <a href="https://sigchi.org/templates/">SIGCHI Extended Abstracts format</a> (or rough equivalent)</li>
-<li><span class="accent">Deadline (Early Decision):</span> August 25, 2019</li>
-<li><span class="accent">Deadline:</span> September 23, 2019</li>
-<li><span class="accent">Notification:</span> October 4, 2019</li>
-<li><span class="accent">Workshop:</span> Saturday, November 9, 2019</li>
-</ul>
+    <div class="box-title">Key Information:</div>
+    <ul>  
+        <li><span class="accent">Format:</span> 2-4 pages in the <a href="https://sigchi.org/templates/">SIGCHI Extended Abstracts format</a> (or rough equivalent)</li>
+        <li><span class="accent">Deadline (Early Decision):</span> August 25, 2019</li>
+        <li><span class="accent">Deadline:</span> September 23, 2019</li>
+        <li><span class="accent">Notification:</span> October 4, 2019</li>
+        <li><span class="accent">Workshop:</span> Saturday, November 9, 2019</li>
+    </ul>
 </div>
 
 We invite a diversity of stakeholders, including researchers studying these topics, grassroots organizers who can represent and voice the concerns of their respective worker communities, and designers of on-demand work platforms to apply to this workshop. Potential participants are asked to submit 2-4 page position papers that describe their research, opinion, positionality, and/or practice in the workshop area. Potential topics include (but are not limited to):

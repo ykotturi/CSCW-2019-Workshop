@@ -117,6 +117,11 @@ a.to-top {
     float: right;
 }
 
+.where-when {
+    display: flex;
+    flex-direction: row;
+}
+
 .organizer {
     height: 160px;
     display: flex;
