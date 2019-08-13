@@ -113,7 +113,7 @@ We will consider applications for remote attendance if you cannot attend CSCW in
     <img src="/assets/image/organizers/hui.jpg"/>
     <div class="organizer-info">
         <div class="organizer-name"><a href="http://juliehui.com/">Julie Hui</a></div>
-        <div class="organizer-title">Assistant Professor/Presidential Post-doc</div>
+        <div class="organizer-title">Assistant Professor / Presidential Post-doc</div>
         <div class="organizer-aff">University of Michigan School of Information</div>
     </div>
 </div>
