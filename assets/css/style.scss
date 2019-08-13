@@ -93,11 +93,10 @@ a.to-top {
 }
 
 .organizer {
-    width: 200px;
     display: flex;
     flex-direction: row;
     img {
-        height: 100%;
+        width: 200px;
     }
     .organizer-info {
         padding: 20px 20px 0 20px;
