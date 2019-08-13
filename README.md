@@ -73,7 +73,8 @@ The outcomes of these activities will contribute to a collective report on chall
 
 **Key Information:**  
 - **Format:** 2-4 pages in the <a href="https://sigchi.org/templates/">SIGCHI Extended Abstracts format</a> or alternative material of rough equivalence
-- **Deadline:** September 23, 2019
+- **(Early Decision) Deadline:** August 25, 2019
+- **(Regular Decision) Deadline:** September 23, 2019
 - **Notification:** October 4, 2019
 - **Workshop:** Saturday, November 9, 2019
 
