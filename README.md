@@ -155,7 +155,6 @@ We will consider applications for remote attendance if you cannot attend CSCW in
 -->
 
 ### Advisors
-
 <div class="organizer">
     <img src="/assets/image/organizers/dillahunt.jpg"/>
     <div class="organizer-info">
