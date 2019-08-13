@@ -90,12 +90,18 @@ a.to-top {
 }
 
 @media print, screen and (max-width: 960px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
     header {
         img {
             width: 100%;
         }
     }
     #container {
+        width: 100%;
+        background-color: white;
         margin-top: -400px;
         z-index: 20;
         * {
