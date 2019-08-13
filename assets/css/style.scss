@@ -94,14 +94,13 @@ a.to-top {
 
 .organizer {
     height: 200px;
+    width: 100%;
     display: block;
     img {
-        height: 100%;
-        display: inline-block;
+        display: inline;
     }
     .organizer-info {
-        height: 100%;
-        display: inline-block;
+        display: inline;
         padding: 0 30px;
     }
     .organizer-name {
