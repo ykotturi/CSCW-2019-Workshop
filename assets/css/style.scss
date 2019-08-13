@@ -120,6 +120,10 @@ a.to-top {
 .where-when {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    div {
+        padding: 0px 20px;
+    }
 }
 
 .organizer {
