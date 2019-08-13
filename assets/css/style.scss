@@ -108,6 +108,12 @@ a.to-top {
         background-repeat: no-repeat;
         background-position: 50% 50%;
     }
+    section {
+        top: 300px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
     #container {
         width: 100%;
         background-color: white;
