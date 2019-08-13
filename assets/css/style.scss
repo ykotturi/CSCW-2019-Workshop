@@ -101,9 +101,12 @@ a.to-top {
         right: 0;
         height: 300px;
         img {
-            width: 100%;
-            object-fit: cover;
+            display: none;
         }
+        background-image: url("/assets/image/v4.jpeg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
     }
     #container {
         width: 100%;
