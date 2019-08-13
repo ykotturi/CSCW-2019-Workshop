@@ -93,17 +93,17 @@ a.to-top {
 }
 
 .organizer {
-    height: 200px;
+    width: 200px;
     display: flex;
     flex-direction: row;
     img {
         height: 100%;
     }
     .organizer-info {
-        padding: 0 30px;
+        padding: 20px 20px 0 20px;
     }
     .organizer-name {
-
+        font-weight: 700;
     }
     .organizer-title {
 
