@@ -119,6 +119,7 @@ a.to-top {
         padding: 0;
         width: 100%;
     }
+
     header {
         width: 100%;
         height: 300px;
@@ -130,6 +131,7 @@ a.to-top {
         background-size: cover;
         background-repeat: no-repeat;
     }
+
     section {
         position: absolute;
         top: 300px;
@@ -144,17 +146,21 @@ a.to-top {
         font-size: 26px;
         letter-spacing: -0.25px;
     }
+
     h2.subtitle {
         font-size: 16px;
         line-height: 22px;
         letter-spacing: -0.25px;
         margin-bottom: 10px; 
     }
+
     p {
         letter-spacing: -0.25px;
         line-height: 20px;
     }
+
     .organizer-info {
-        font-size: 12px;
+        padding: 6px;
+        font-size: 10px;
     }
 }
