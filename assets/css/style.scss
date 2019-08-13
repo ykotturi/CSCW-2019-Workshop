@@ -93,12 +93,13 @@ a.to-top {
 }
 
 .organizer {
+    display: block;
     img {
         width: 200px;
-        float: left;
+        display: inline-block;
     }
     .organizer-info {
-        float: left;
+        display: inline-block;
     }
     .organizer-name {
 
