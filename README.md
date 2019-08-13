@@ -118,6 +118,33 @@ We will consider applications for remote attendance if you cannot attend CSCW in
     </div>
 </div>
 
+<div class="organizer">
+    <img src="/assets/image/organizers/hui.jpg"/>
+    <div class="organizer-info">
+        <div class="organizer-name"><a href="http://cranshaw.me/">Justin Cranshaw</a></div>
+        <div class="organizer-title">Senior Researcher</div>
+        <div class="organizer-aff">Microsoft Research</div>
+    </div>
+</div>
+
+<div class="organizer">
+    <img src="/assets/image/organizers/hui.jpg"/>
+    <div class="organizer-info">
+        <div class="organizer-name"><a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a></div>
+        <div class="organizer-title">PhD student in Human-Computer Interaction</div>
+        <div class="organizer-aff">Carnegie Mellon University</div>
+    </div>
+</div>
+
+<div class="organizer">
+    <img src="/assets/image/organizers/hui.jpg"/>
+    <div class="organizer-info">
+        <div class="organizer-name"><a href="http://www.cs.cmu.edu/~chinmayk/">Chinmay Kulkarni</a></div>
+        <div class="organizer-title">Assistant Professor of Human Computer Interaction</div>
+        <div class="organizer-aff">Carnegie Mellon University</div>
+    </div>
+</div>
+
 <!--**<a href="http://juliehui.com/">Julie Hui</a>** is an Assistant Professor/Presidential Post-doc at the University of Michigan School of Information. She has seven years of experience investigating how to best support peer information sharing and social support in informal work contexts, such as online crowdfunding communities, makerspaces, and neighborhood business groups. She is currently studying and building tools to support skill and self-efficacy development among low-resourced entrepreneurs.  
 
 **<a href="http://cranshaw.me/">Justin Cranshaw</a>** is a researcher at Microsoft focusing on building and studying technologies to make individuals, teams, and organizations more productive at work. This workshop topic on the role of place in on-demand work bridges his current research interests to his past research, which focused on designing location-based social technologies for strengthening and supporting places, especially in an urban context.   
