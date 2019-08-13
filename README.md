@@ -119,7 +119,7 @@ We will consider applications for remote attendance if you cannot attend CSCW in
 </div>
 
 <div class="organizer">
-    <img src="/assets/image/organizers/hui.jpg"/>
+    <img src="/assets/image/organizers/cranshaw.jpg"/>
     <div class="organizer-info">
         <div class="organizer-name"><a href="http://cranshaw.me/">Justin Cranshaw</a></div>
         <div class="organizer-title">Senior Researcher</div>
@@ -128,7 +128,7 @@ We will consider applications for remote attendance if you cannot attend CSCW in
 </div>
 
 <div class="organizer">
-    <img src="/assets/image/organizers/hui.jpg"/>
+    <img src="/assets/image/organizers/kotturi.jpg"/>
     <div class="organizer-info">
         <div class="organizer-name"><a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a></div>
         <div class="organizer-title">PhD student in Human-Computer Interaction</div>
@@ -137,7 +137,7 @@ We will consider applications for remote attendance if you cannot attend CSCW in
 </div>
 
 <div class="organizer">
-    <img src="/assets/image/organizers/hui.jpg"/>
+    <img src="/assets/image/organizers/kulkarni.jpg"/>
     <div class="organizer-info">
         <div class="organizer-name"><a href="http://www.cs.cmu.edu/~chinmayk/">Chinmay Kulkarni</a></div>
         <div class="organizer-title">Assistant Professor of Human Computer Interaction</div>
