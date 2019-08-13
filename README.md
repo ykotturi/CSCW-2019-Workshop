@@ -20,7 +20,7 @@ While the shift to on-demand labor may foster greater control over one’s emplo
 <div class="where-when box">
     <div>
         <div class="accent">When:</div>
-        <div>CSCW, 2019</div> 
+        <div><a href="http://cscw.acm.org/2019/">CSCW 2019</a></div> 
         <div>Saturday, Nov 9</div> 
         <div>9am-5pm</div>
     </div>
