@@ -26,7 +26,7 @@ While the shift to on-demand labor may foster greater control over one’s emplo
     </div>
     <div>
         <div class="accent">Where:</div> 
-        <div>Hilton Hotel</div>
+        <div><a href="https://www3.hilton.com/en/hotels/texas/hilton-austin-AUSCVHH/index.html?SEO_id=GMB-HI-AUSCVHH" target="_blank">Hilton Hotel</a></div>
         <div>500 East 4th St</div> 
         <div>Austin, TX</div>
     </div>
