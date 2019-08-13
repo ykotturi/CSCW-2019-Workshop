@@ -93,7 +93,7 @@ a.to-top {
 }
 
 .organizer {
-    height: 200px;
+    height: 160px;
     display: flex;
     flex-direction: row;
     padding: 20px 0;
@@ -101,16 +101,14 @@ a.to-top {
         height: 100%;
     }
     .organizer-info {
-        padding: 20px 20px 0 20px;
+        padding: 15px;
+        font-size: 18px;
     }
     .organizer-name {
-        font-weight: 700;
+        font-weight: 900;
     }
-    .organizer-title {
-
-    }
-    .organizer-aff {
-
+    .organizer-title, .organizer-aff {
+        font-style: italic;
     }
 }
 
