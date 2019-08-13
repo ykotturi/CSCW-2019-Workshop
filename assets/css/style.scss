@@ -114,13 +114,6 @@ a.to-top {
         left: 0;
         right: 0;
         padding: 10px 20px 0 20px;
-    }
-    #container {
-        width: 100%;
-        background-color: white;
-        z-index: 20;
-        * {
-            background-color: white;
-        }
+        border: none;
     }
 }
