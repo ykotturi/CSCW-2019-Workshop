@@ -156,7 +156,7 @@ We invite a diversity of stakeholders, including researchers studying these topi
 **<a href="http://www.cs.cmu.edu/~chinmayk/">Chinmay Kulkarni</a>** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
 -->
 
-### Advisors
+## Advisors
 <div class="organizer">
     <img src="/assets/image/organizers/dillahunt.jpg"/>
     <div class="organizer-info">
