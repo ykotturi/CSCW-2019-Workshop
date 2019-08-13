@@ -200,8 +200,8 @@ We invite a diversity of stakeholders, including researchers studying these topi
   
 The 22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2019) will be held November 9th-13th, 2019 in Austin, Texas.
 
-“CSCW is the premier venue for research in the design and use of technologies that affect groups, organizations, communities, and networks. Bringing together top researchers and practitioners, CSCW explores the technical, social, material, and theoretical challenges of designing technology to support collaborative work and life activities.”
+CSCW is the premier venue for research in the design and use of technologies that affect groups, organizations, communities, and networks. Bringing together top researchers and practitioners, CSCW explores the technical, social, material, and theoretical challenges of designing technology to support collaborative work and life activities.
 
-For more information, visit cscw.acm.org.
+For more information, visit <a href="cscw.acm.org">cscw.acm.org</a>.
   
 <a class="to-top" href="#top">back to top</a> 
