@@ -99,11 +99,11 @@ We invite a diversity of stakeholders, including researchers studying these topi
 
 <span class="accent">Selection and Attendance Criteria:</span> Submissions will be reviewed by the organizers and accepted based on the relevance and potential to contribute to the workshop. Our workshop will accommodate up to 20 participants. At least one author of each accepted paper must attend the workshop. Please note that workshop attendees are required to register for the workshop by by paying an additional workshop fee on top of the conference registration fee. Prior to the workshop, participants will be requested to read all accepted position papers.
 
-<span class="accent">How to Submit:</span> Submissions and questions should be directed to futureofworkplaces@gmail.com by the submission deadline. Please submit your position paper in PDF format by August 25, 2019 for early decision notification, or by September 23, 2019 for later decision notification.
+<span class="accent">How to Submit:</span> Submissions and questions should be directed to <a href="mailto:futureofworkplaces@gmail.com">futureofworkplaces@gmail.com</a> by the submission deadline. Please submit your position paper in PDF format by August 25, 2019 for early decision notification, or by September 23, 2019 for later decision notification.
 
 <span class="accent">Archival Copies:</span> Submitted abstracts will be archived on the workshop’s website, but will not appear in the CSCW proceedings. Authors will maintain all copyright over their work.
 
-<span class="accent">Remote Attendance:</span> We will consider applications for remote attendance if you cannot attend CSCW in person due to mobility impairments, chronic health issues, travel limitations, etc. If your application is for remote attendance, please indicate this in the submission abstract and email. For general questions about telepresence opportunities at CSCW 2019, please email tele2019@cscw.acm.org.
+<span class="accent">Remote Attendance:</span> We will consider applications for remote attendance if you cannot attend CSCW in person due to mobility impairments, chronic health issues, travel limitations, etc. If your application is for remote attendance, please indicate this in the submission abstract and email. For general questions about telepresence opportunities at CSCW 2019, please email <a href="mailto:tele2019@cscw.acm.org">tele2019@cscw.acm.org</a>.
 
 <a class="to-top" href="#top">back to top</a> 
 
@@ -192,9 +192,6 @@ We invite a diversity of stakeholders, including researchers studying these topi
 **<a href="https://quote.ucsd.edu/lirani/">Lilly Irani</a>** is an Associate Professor of Communication & Science Studies at University of California, San Diego. She also serves as faculty in the Design Lab, Institute for Practical Ethics, the program in Critical Gender Studies, and sits on the Academic Advisory Board of AI Now (NYU). She is author of Chasing Innovation: Making Entrepreneurial Citizens in Modern India (Princeton University Press, 2019). Her research examines the cultural politics of high-tech work and the counter-practices they generate, as both an ethnographer, a designer, and a former technology worker. She is a co-founder and maintainer of digital labor activism tool Turkopticon. Her work has appeared at ACM SIGCHI, New Media & Society, Science, Technology & Human Values, South Atlantic Quarterly, and other venues.
 -->
 
-<a class="to-top" href="#top">back to top</a> 
-
-<div id="cscw"></div>
 
 ## About CSCW
   
