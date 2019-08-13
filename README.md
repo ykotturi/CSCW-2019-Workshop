@@ -111,8 +111,11 @@ We will consider applications for remote attendance if you cannot attend CSCW in
 
 <div class="organizer">
     <img src="/assets/image/organizers/hui.jpg"/>
-    <div class="organizer-name"><a href="http://juliehui.com/">Julie Hui</a></div>
-    <div class="organizer-aff">Assistant Professor/Presidential Post-doc, University of Michigan School of Information</div>
+    <div class="organizer-info">
+        <div class="organizer-name"><a href="http://juliehui.com/">Julie Hui</a></div>
+        <div class="organizer-title">Assistant Professor/Presidential Post-doc</div>
+        <div class="organizer-aff">University of Michigan School of Information</div>
+    </div>
 </div>
 
 <!--**<a href="http://juliehui.com/">Julie Hui</a>** is an Assistant Professor/Presidential Post-doc at the University of Michigan School of Information. She has seven years of experience investigating how to best support peer information sharing and social support in informal work contexts, such as online crowdfunding communities, makerspaces, and neighborhood business groups. She is currently studying and building tools to support skill and self-efficacy development among low-resourced entrepreneurs.  
