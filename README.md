@@ -21,14 +21,14 @@ While the shift to on-demand labor may foster greater control over one’s emplo
     <div>
         <div class="accent">When:</div>
         <div>CSCW, 2019</div> 
-        <div>Saturday, November 9</div> 
+        <div>Saturday, Nov 9</div> 
         <div>9am-5pm</div>
     </div>
     <div>
         <div class="accent">Where:</div> 
         <div>Hilton Hotel</div>
-        <div>500 East 4th Street</div> 
-        <div>Austin, TX 78701</div>
+        <div>500 East 4th St</div> 
+        <div>Austin, TX</div>
     </div>
 </div>
   
