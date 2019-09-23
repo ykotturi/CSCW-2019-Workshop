@@ -84,7 +84,7 @@ The outcomes of these activities will contribute to a collective report on chall
         <li><span class="accent">Deadline (Early Decision):</span> September 1, 2019</li>
         <li><strike><span class="accent">Deadline:</span> September 23, 2019</strike></li>
         <li><b><span class="accent">Extended Deadline:</span> October 6, 2019</b></li>
-        <li><span class="accent">Notification:</span> October 4, 2019</li>
+        <li><span class="accent">Notification:</span> October 13, 2019</li>
         <li><span class="accent">Workshop:</span> Saturday, November 9, 2019</li>
     </ul>
 </div>
