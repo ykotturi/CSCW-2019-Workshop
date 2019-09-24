@@ -100,7 +100,7 @@ We invite a diversity of stakeholders, including researchers studying these topi
 
 <span class="accent">Selection and Attendance Criteria:</span> Submissions will be reviewed by the organizers and accepted based on the relevance and potential to contribute to the workshop. Our workshop will accommodate up to 20 participants. At least one author of each accepted paper must attend the workshop. Please note that workshop attendees are required to register for the workshop by by paying an additional workshop fee on top of the conference registration fee. Prior to the workshop, participants will be requested to read all accepted position papers.
 
-<span class="accent">How to Submit:</span> Submissions and questions should be directed to <a href="mailto:futureofworkplaces@gmail.com" target="_blank">futureofworkplaces@gmail.com</a> by the submission deadline. Please submit your position paper in PDF format by August 25, 2019 for early decision notification, or by September 23, 2019 for later decision notification.
+<span class="accent">How to Submit:</span> Submissions and questions should be directed to <a href="mailto:futureofworkplaces@gmail.com" target="_blank">futureofworkplaces@gmail.com</a> by the submission deadline. Please submit your position paper in PDF format by August 25, 2019 for early decision notification, or by October 6, 2019 for later decision notification.
 
 <span class="accent">Archival Copies:</span> Submitted abstracts will be archived on the workshop’s website, but will not appear in the CSCW proceedings. Authors will maintain all copyright over their work.
 
