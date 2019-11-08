@@ -133,7 +133,7 @@ We invite a diversity of stakeholders, including researchers studying these topi
 <div class="organizer">
     <img src="/assets/image/organizers/kotturi.jpg"/>
     <div class="organizer-info">
-        <div class="organizer-name"><a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a></div>
+        <div class="organizer-name"><a href="https://ykotturi.github.io">Yasmine Kotturi</a></div>
         <div class="organizer-title">PhD student in Human-Computer Interaction</div>
         <div class="organizer-aff">Carnegie Mellon University</div>
     </div>
